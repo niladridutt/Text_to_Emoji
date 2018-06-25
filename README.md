@@ -26,40 +26,75 @@ The word to emoji model converts each and every word to an emoji if it crosses a
 # Output:
 
 star boy
+
 ⭐ 👦
+
 i love you
+
 🆔 💌 🙅
+
 x marks the spot
+
 ❌ 💴 the spot
+
 the pizza is great
+
 the 🍕 🅰 great
+
 chicken lays eggs
+
 🐔 lays 🍳
+
 games or a mobile ?
+
 🎮 or 🅰 📱 🙅
+
 i have scored hundred in maths
+
 🆔 have 🥅 💯 in maths
+
 She is the queen of hearts
+
 👩 🅰 the 👸 of ♥
+
 messi is the king of soccer
+
 messi 🅰 the 🤴 of ⚽
+
 lets build a rocket
+
 lets 🏗 🅰 🚀
+
 I will dance at your wedding
+
 🆔 will 👯 🌉 your 💒
+
 i love my mother
+
 🆔 💌 my 👩
+
 coffee or tea
+
 ☕ or 🍵
+
 aliens have cool spaceships
-👽 have 🆒 spaceships)
+
+👽 have 🆒 spaceships
+
 india is the greatest
+
 🇮🇳 🅰 the greatest
+
 china is a wonderful country
+
 🇨🇳 🅰 🅰 wonderful 🇮🇶
+
 good job
+
 🙅 job
+
 the terrorist bombed the church
+
 the 💣 💣 the ⛪
 
 ----
@@ -77,12 +112,19 @@ Model architecture
 # Output:
 
 I do not like movies 😞
+
 I feel lonely 😞
+
 Let us go and watch football world cup tonight ⚾
+
 Honey lets go out for a date 🍴
+
 She is the most amazing girl ❤️
+
 Happy birthday Raj 😄
+
 This is the best day of my life 😄
+
 My mom is the best ❤️
 
 ----
