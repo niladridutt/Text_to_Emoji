@@ -49,7 +49,7 @@ lets build a rocket - lets 🏗 🅰 🚀
 
 # Sentence to Emoji
 
-https://github.com/niladri99/Text_to_Emoji/blob/master/word_to_emoji.ipynb
+https://github.com/niladri99/Text_to_Emoji/blob/master/sentence_to_emoji.ipynb
 
 Number of emojis = 5
 
