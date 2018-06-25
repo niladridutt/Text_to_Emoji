@@ -1,4 +1,4 @@
-I have got the emojis from https://pypi.org/project/emoji/
+Source of emojis : https://pypi.org/project/emoji/
 
 ```
 $ pip install emoji --upgrade
