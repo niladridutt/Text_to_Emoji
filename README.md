@@ -94,3 +94,9 @@ My mom is the best ❤️
 * Keras
 * Glove vectors (100d and 300d)
 * numpy
+
+----
+# Issues
+* Word to emoji has high bias towards America and its culture and certain words like 'is' is displayed as 🅰. Better word embeddings with a larger corpus should be able to contain it.
+* Sentence to emoji can be greatly improved if it has a much larger dataset and a larger emoji count.
+* Th
