@@ -29,38 +29,21 @@ The word to emoji model converts each and every word to an emoji if it crosses a
 
 # Output:
 
-star boy
+star boy - ⭐ 👦
 
-⭐ 👦
+i love you - 🆔 💌 🙅
 
-i love you
+the pizza is great - the 🍕 🅰 great
 
-🆔 💌 🙅
+chicken lays eggs - 🐔 lays 🍳
 
-the pizza is great
+i have scored hundred in maths - 🆔 have 🥅 💯 in maths
 
-the 🍕 🅰 great
+She is the queen of hearts - 👩 🅰 the 👸 of ♥
 
-chicken lays eggs
+messi is the king of soccer - messi 🅰 the 🤴 of ⚽
 
-🐔 lays 🍳
-
-i have scored hundred in maths
-
-🆔 have 🥅 💯 in maths
-
-She is the queen of hearts
-
-👩 🅰 the 👸 of ♥
-
-messi is the king of soccer
-
-messi 🅰 the 🤴 of ⚽
-
-lets build a rocket
-
-lets 🏗 🅰 🚀
-
+lets build a rocket - lets 🏗 🅰 🚀
 
 ----
 
@@ -100,4 +83,5 @@ My mom is the best ❤️
 
 # Issues
 * Word to emoji has high bias towards America and its culture and certain words like 'is' is displayed as 🅰. Better word embeddings with a larger corpus should be able to contain it.
+* I have kept the threshold as 0.115. I'm not sure if this is the best number.
 * Sentence to emoji can be greatly improved if it has a much larger dataset and a larger emoji count.
