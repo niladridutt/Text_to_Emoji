@@ -4,7 +4,7 @@ I have got the emojis from https://pypi.org/project/emoji/
 $ pip install emoji --upgrade
 
 ```
-Get the Glove vectors from https://nlp.stanford.edu/projects/glove/
+This model uses 100d and 300d Glove vectors as word embeddings which are then fed to the model. Get it from - https://nlp.stanford.edu/projects/glove/
 
 ----
 
