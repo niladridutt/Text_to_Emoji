@@ -33,10 +33,6 @@ i love you
 
 🆔 💌 🙅
 
-x marks the spot
-
-❌ 💴 the spot
-
 the pizza is great
 
 the 🍕 🅰 great
@@ -44,10 +40,6 @@ the 🍕 🅰 great
 chicken lays eggs
 
 🐔 lays 🍳
-
-games or a mobile ?
-
-🎮 or 🅰 📱 🙅
 
 i have scored hundred in maths
 
@@ -65,37 +57,6 @@ lets build a rocket
 
 lets 🏗 🅰 🚀
 
-I will dance at your wedding
-
-🆔 will 👯 🌉 your 💒
-
-i love my mother
-
-🆔 💌 my 👩
-
-coffee or tea
-
-☕ or 🍵
-
-aliens have cool spaceships
-
-👽 have 🆒 spaceships
-
-india is the greatest
-
-🇮🇳 🅰 the greatest
-
-china is a wonderful country
-
-🇨🇳 🅰 🅰 wonderful 🇮🇶
-
-good job
-
-🙅 job
-
-the terrorist bombed the church
-
-the 💣 💣 the ⛪
 
 ----
 
