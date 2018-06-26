@@ -4,7 +4,7 @@ Source of emojis : https://pypi.org/project/emoji/
 $ pip install emoji --upgrade
 
 ```
-The models use 100d and 300d Glove vectors trained on the Wikipedia corpus as word embeddings respectively.
+The models use 100d and 300d Glove vectors trained on the Wikipedia corpus as word embeddings.
 
 Get it from - https://nlp.stanford.edu/projects/glove/
 
@@ -53,7 +53,7 @@ https://github.com/niladri99/Text_to_Emoji/blob/master/sentence_to_emoji.ipynb
 
 Number of emojis = 5
 
-It uses 2 layers of LSTMs with dropout. The model has been trained on less than 200 sentences and it only has a range of 5 emojis to choose from as I was not able to get a suitable dataset but still it performs considerably well owing to the generalisation power of Glove vectors (word embeddings). The source of this dataset is Coursera.
+It uses 2 layers of LSTMs with dropout. The model has been trained on less than 200 sentences and it only has a range of 5 emojis to choose from as I was not able to get a suitable dataset but still it performs considerably well owing to the generalisation power of 100d Glove vectors (word embeddings). The source of this dataset is Coursera.
 
 
 Model architecture
