@@ -21,7 +21,7 @@ I have created 2 seperate ways to convert your text to emoji
 
 # Word to Emoji 
 
-(https://github.com/niladri99/Text_to_Emoji/blob/master/word_to_emoji.ipynb)
+(https://github.com/niladridutt/Text_to_Emoji/blob/master/word_to_emoji.ipynb)
 
 Number of emojis = 3415
 
@@ -49,7 +49,7 @@ lets build a rocket - lets 🏗 🅰 🚀
 
 # Sentence to Emoji
 
-https://github.com/niladri99/Text_to_Emoji/blob/master/sentence_to_emoji.ipynb
+https://github.com/niladridutt/Text_to_Emoji/blob/master/sentence_to_emoji.ipynb
 
 Number of emojis = 5
 
